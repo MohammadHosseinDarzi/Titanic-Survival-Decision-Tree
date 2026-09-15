@@ -1,4 +1,3 @@
-assets/titanic.gif
 # 🚢 Titanic Survival Prediction with Decision Trees
 
 <p align="center">
